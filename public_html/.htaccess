@@ -1,0 +1,9 @@
+RewriteEngine On
+#redirect http://mail.nuntainconstanta.ro to WebMail interface
+RewriteCond %{HTTP_HOST} ^mail.nuntainconstanta.ro [NC]
+RewriteRule ^(.*) https://nuntainconstanta.ro:2096/ [L,R]
+
+RewriteCond %{HTTP_HOST} ^nuntainconstanta\.ro$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nuntainconstanta\.ro$
+RewriteRule ^/?$ "http\:\/\/www\.nuntainconstanta\.ro\/pagina\.php\?categorie\=acasa" [R=301,L]
+

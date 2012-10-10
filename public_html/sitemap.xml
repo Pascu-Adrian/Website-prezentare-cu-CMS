@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.nuntainconstanta.ro/pagina.php?categorie=acasa</loc>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.nuntainconstanta.ro/pagina.php?categorie=Aranjamente%20florale</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.nuntainconstanta.ro/pagina.php?categorie=Galerie%20foto</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.nuntainconstanta.ro/pagina.php?categorie=Pachete%20speciale</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.nuntainconstanta.ro/pagina.php?categorie=Servicii</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.nuntainconstanta.ro/pagina.php?categorie=contact</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.nuntainconstanta.ro/pagina.php?categorie=servicii</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.nuntainconstanta.ro/pagina.php?categorie=Aranjamente%20florale&amp;galerie=buchete%20rotunde</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.nuntainconstanta.ro/pagina.php?categorie=Aranjamente%20florale&amp;galerie=aranjamente</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.nuntainconstanta.ro/pagina.php?categorie=Galerie%20foto&amp;galerie=decoratiuni%20saloane</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.nuntainconstanta.ro/pagina.php?categorie=Galerie%20foto&amp;galerie=fantana%20de%20sampanie</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.nuntainconstanta.ro/pagina.php?categorie=Galerie%20foto&amp;galerie=fantana%20de%20ciocolata%20si%20sculpturi%20in%20fructe</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>
